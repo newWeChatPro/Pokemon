@@ -19,7 +19,7 @@
     <maven.compiler.target>1.8</maven.compiler.target>
     <!--    spring, json版本的指定，后期版本更新更改可以直接在这里修改-->
     <spring.version>5.1.6.RELEASE</spring.version>
-    <json.version>2.9.8</json.version>
+    <json.version>2.10.1</json.version>
   </properties>
 
   <dependencies>
